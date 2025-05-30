@@ -11,6 +11,7 @@
   "dependencies": {
     "appwrite": "^18.1.1",
     "next": "15.3.2",
+    "node-appwrite": "^17.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -24,5 +25,19 @@
     "eslint-config-next": "15.3.2",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mismail9961/CodeZap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mismail9961/CodeZap/issues"
+  },
+  "homepage": "https://github.com/Mismail9961/CodeZap#readme"
 }
